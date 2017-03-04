@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='cricketlivescore',
-      version='1.0',
+      version='1.1.2',
       description='Get live cricket scores',
       url='http://github.com/appi147/cricketlivescore',
       author='Arpit Choudhary',
