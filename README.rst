@@ -2,7 +2,7 @@
    :linenothreshold: 5
 .. highlight:: rst
 .. code-block:: python
-   :emphasize-lines: 34,37
+   :emphasize-lines: 32,34
 
 ==============================
 cricketlivescore Documentation
