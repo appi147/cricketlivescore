@@ -1,6 +1,8 @@
 .. highlight:: python
    :linenothreshold: 5
 .. highlight:: rst
+.. code-block:: python
+   :emphasize-lines: 34,37
 
 ==============================
 cricketlivescore Documentation
@@ -25,10 +27,7 @@ Installation
 Description
 -----------
 
-  cricketlivescore contains only one function get() which returns a list. Items of the list can be accessed as 
-
-.. code-block:: python
-   :emphasize-lines: 34,37
+  cricketlivescore contains only one function get() which returns a list. Items of the list can be accessed as::
 
    scores = cricketlivescore.get()
    for score in scores:
