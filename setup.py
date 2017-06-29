@@ -1,11 +1,13 @@
 from setuptools import setup
 
+
 def readme():
     with open('README.rst') as f:
         return f.read()
 
+
 setup(name='cricketlivescore',
-      version='1.1.2',
+      version='1.1.2.1',
       description='Get live cricket scores',
       url='http://github.com/appi147/cricketlivescore',
       author='Arpit Choudhary',
